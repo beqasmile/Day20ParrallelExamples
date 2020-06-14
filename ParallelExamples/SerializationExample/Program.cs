@@ -17,9 +17,17 @@ namespace SerializationExample
 
             //create BinaryFormatter that can serilize object into file
             BinaryFormatter b = new BinaryFormatter();
+            List<Car> list = new List<Car>();
+            for (int i = 0; i < 100000; i++)
 
-            Car x = new Car(" car " , "car 1", EnumCarType.Bus, 100);
-            b.Serialize(f, x);
+            {
+                Car x = new Car(" car ", "car 1", EnumCarType.Bus, 100);
+
+                list.Add(x);
+              
+            }
+
+            b.Serialize(f, list);
 
 
             //close file
@@ -32,8 +40,11 @@ namespace SerializationExample
             FileStream ff1 = File.OpenRead("car.ser");
             //create BinaryFormatter that can Deserialize
             BinaryFormatter b1 = new BinaryFormatter();
-            //Deserialize and casting from object to serialSAmp
-            a = (Car)b.Deserialize(ff1);
+            //List<Car> cars = new List<Car>();
+
+            List<Car> listOut = b1.Deserialize(ff1) as List<Car>;
+
+
             //close file
             f.Close();
             
