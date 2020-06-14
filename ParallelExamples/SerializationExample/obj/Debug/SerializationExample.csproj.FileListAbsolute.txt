@@ -1,0 +1,7 @@
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\SerializationExample\bin\Debug\SerializationExample.exe.config
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\SerializationExample\bin\Debug\SerializationExample.exe
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\SerializationExample\bin\Debug\SerializationExample.pdb
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\SerializationExample\obj\Debug\SerializationExample.csprojAssemblyReference.cache
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\SerializationExample\obj\Debug\SerializationExample.csproj.CoreCompileInputs.cache
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\SerializationExample\obj\Debug\SerializationExample.exe
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\SerializationExample\obj\Debug\SerializationExample.pdb

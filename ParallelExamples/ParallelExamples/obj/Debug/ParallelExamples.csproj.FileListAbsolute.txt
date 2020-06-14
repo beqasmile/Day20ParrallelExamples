@@ -1,0 +1,7 @@
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\ParallelExamples\bin\Debug\ParallelExamples.exe.config
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\ParallelExamples\bin\Debug\ParallelExamples.exe
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\ParallelExamples\bin\Debug\ParallelExamples.pdb
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\ParallelExamples\obj\Debug\ParallelExamples.csprojAssemblyReference.cache
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\ParallelExamples\obj\Debug\ParallelExamples.csproj.CoreCompileInputs.cache
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\ParallelExamples\obj\Debug\ParallelExamples.exe
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\ParallelExamples\obj\Debug\ParallelExamples.pdb

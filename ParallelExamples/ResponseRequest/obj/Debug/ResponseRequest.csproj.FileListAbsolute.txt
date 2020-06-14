@@ -1,0 +1,6 @@
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\ResponseRequest\bin\Debug\ResponseRequest.exe.config
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\ResponseRequest\bin\Debug\ResponseRequest.exe
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\ResponseRequest\bin\Debug\ResponseRequest.pdb
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\ResponseRequest\obj\Debug\ResponseRequest.csproj.CoreCompileInputs.cache
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\ResponseRequest\obj\Debug\ResponseRequest.exe
+C:\dev\day20\Day20ParrallelExamples\ParallelExamples\ResponseRequest\obj\Debug\ResponseRequest.pdb
